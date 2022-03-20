@@ -14,4 +14,5 @@ The models used in the proof of concept application that will be discussed later
 
 
 Research file ->>  Research_project.ipynb
+
 Proof of concept application ->> Application_tumor_detection.ipynb
