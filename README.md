@@ -12,7 +12,5 @@ This study showed that ensemble learning achieved better results than when using
 
 The models used in the proof of concept application that will be discussed later achieved a very high accuracy score.
 
-
-Research file ->>  Research_project.ipynb
-
-Proof of concept application ->> Application_tumor_detection.ipynb
+- Research file ->>  Research_project.ipynb
+- Proof of concept application ->> Application_tumor_detection.ipynb
