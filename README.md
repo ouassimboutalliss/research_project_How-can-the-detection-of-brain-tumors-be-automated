@@ -10,7 +10,7 @@ The number of false positives and the accuracy are very important aspects in cla
 
 This study showed that ensemble learning achieved better results than when using a single model. For this, it is significant that the selected models that are used in an ensemble model do work well.
 
-The models used in the proof of concept application that will be discussed later achieved a very high accuracy score.
+The models used in the proof of concept application achieved a very high accuracy score.
 
 - Research file ->>  Research_project.ipynb
 - Proof of concept application ->> Application_tumor_detection.ipynb
