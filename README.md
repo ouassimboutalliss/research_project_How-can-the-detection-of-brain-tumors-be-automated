@@ -8,7 +8,9 @@ On the basis of the various tests performed, it is evaluated which methods of pr
 
 The number of false positives and the accuracy are very important aspects in classifying the brain tumors. It is very crucial that the model makes more false positives (false alarm of tumor) predictions than false negatives (tumor present, but not predicted). This is because it can save a life. In the segmentation part, the dice_coef, training rate and the reconstructed images are critical.
 
-This study showed that ensemble learning achieved better results than when using a single model. For this, it is significant that the selected models that are used in an ensemble model do work well.
+This study showed that ensemble learning achieved better results than when using a single model for predictions. 
+
+The conclusion of this study is that it is possible to automate the detection of brain tumors by using of Deep Learning techniques.
 
 The models used in the proof of concept application achieved a very high accuracy score.
 
